@@ -26,10 +26,11 @@ Here is some examples:
 ## 2. Retrieve a shortened URL 
 We want the user to give in input:
 * a shortened URL
+
 And to receive in output:
 * the original URL
 
-* example
-  * input URL: http://short.com/S1
-  * expected output: http://looooong.com/somepath/newService
+example
+* input URL: http://short.com/S1
+* expected output: http://looooong.com/somepath/newService
 
