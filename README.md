@@ -26,7 +26,7 @@ Here is some example:
 
 
 ## 2. Retrieve a shortened URL 
-Now that our users are able to generate short URLs, we need to give them the possibility to get back the original one.
+Now that our users are able to generate short URLs, we need to give them the possibility to get back the original one.  
 We want the user to input:
 * a shortened URL
 
@@ -41,7 +41,7 @@ Right now we do not expect any kind of persistence, every time we restart the sy
 
 
 ## 3. Generate a random shortned URL
-We discovered that actually part of our users do not like to input a keyword, they would prefer to have an auto-generated one.
+We discovered that actually part of our users do not like to input a keyword, they would prefer to have an auto-generated one.  
 So, we want the user to give in input:
 - a URL
 
@@ -56,7 +56,7 @@ Remember, this is something that only part of the users will need, not all of th
 
 
 ## 4. A different way for generating short URLs
-We want to test a different way for generating the keywords.
+We want to test a different way for generating the keywords.  
 We want the user to give in input:
 - a URL
 
