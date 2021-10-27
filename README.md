@@ -1,11 +1,11 @@
 # Url Shortner
 
-Basically a URL shortener is a service to generate, retrieve and delete short URLs mapped to real URLs like goo.gl and bit.ly.
-We will need a couple of features in our shotener.
+Basically a URL shortener is a service to generate, retrieve and delete short URLs mapped to real URLs like goo.gl and bit.ly.  
+We will need a couple of features in our shotener.  
 Let's assume we are working on a library to be reused in other projects.
 
 ## 1. Shorten a URL with a custom keyword
-The first feature that our product experts think we need it the generation of a short URL where the user can actually chose the "name" for his shortned URL, giving a specific "keyword" as input.
+The first feature that our product experts think we need it the generation of a short URL where the user can actually chose the "name" for his shortned URL, giving a specific "keyword" as input.  
 We want the user to give in input:
 - a URL
 - a custom keyword
