@@ -12,15 +12,15 @@ The base URL for short urls will be http://short.com.
 And we want the system to give back to the user his short URL.
 
 Here is some examples:
-- example 1
--- input URL: http://looooong.com/somepath/newService
--- input keyword: S1
--- expected output: http://short.com/S1
+* example 1
+** input URL: http://looooong.com/somepath/newService
+** input keyword: S1
+** expected output: http://short.com/S1
 
-- example 2
--- input URL: https://anotherlong.com/anypath/myPage
--- input keyword: S2
--- expected output: http://short.com/S2
+* example 2
+** input URL: https://anotherlong.com/anypath/myPage
+** input keyword: S2
+** expected output: http://short.com/S2
 
 
 ## 2. Retrieve a shortened URL 
