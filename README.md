@@ -13,23 +13,23 @@ And we want the system to give back to the user his short URL.
 
 Here is some examples:
 * example 1
-** input URL: http://looooong.com/somepath/newService
-** input keyword: S1
-** expected output: http://short.com/S1
+  * input URL: http://looooong.com/somepath/newService
+  * input keyword: S1
+  * expected output: http://short.com/S1
 
 * example 2
-** input URL: https://anotherlong.com/anypath/myPage
-** input keyword: S2
-** expected output: http://short.com/S2
+  * input URL: https://anotherlong.com/anypath/myPage
+  * input keyword: S2
+  * expected output: http://short.com/S2
 
 
 ## 2. Retrieve a shortened URL 
 We want the user to give in input:
-- a shortened URL
+* a shortened URL
 And to receive in output:
-- the original URL
+* the original URL
 
-- example
--- input URL: http://short.com/S1
--- expected output: http://looooong.com/somepath/newService
+* example
+  * input URL: http://short.com/S1
+  * expected output: http://looooong.com/somepath/newService
 
