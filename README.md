@@ -48,7 +48,7 @@ So, we want the user to give in input:
 And to receive in output:
 - a short URL made of 4 random alphanumeric characters
 
-example:
+Example:
 - input URL: http://some.domain.com/somepath
 - output URL: http://short.com/ZfG3
 
@@ -63,6 +63,7 @@ We want the user to give in input:
 And to receive in output:
 - a short URL made of an incremental integer from 1 to N
 
+Examples:
 - example 1:
   - input URL: http://some.domain.com/somepath
   - output URL: http://short.com/1
